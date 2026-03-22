@@ -21,6 +21,12 @@ Sou focado em evoluir constantemente na programação, buscando melhorar minhas 
 
 ---
 
+<p align="center">
+  <img height="200" src="https://media3.giphy.com/media/boYxZ1fa72kcgr70sN/giphy.gif" />
+</p>
+
+---
+
 ## 📊 Estatísticas
 <p>
   <img height="150" src="https://github-readme-stats.vercel.app/api?username=Vieira-gif&show_icons=true&theme=default"/>
